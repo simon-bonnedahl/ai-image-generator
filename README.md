@@ -2,6 +2,6 @@
 
 ### Tools
 - Next.js 13
-- Tailwind
+- Tailwind CSS
 - Dall-E and ChatGPT api
 - Azure Cloud functions
