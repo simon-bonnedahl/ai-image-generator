@@ -5,4 +5,3 @@
 - Tailwind
 - Dall-E and ChatGPT api
 - Azure Cloud functions
--
