@@ -18,8 +18,6 @@ function PromptInput() {
     revalidateOnFocus: false,
   });
 
-  console.log(suggestion);
-
   const { mutate: updateImages } = useSWR("images", fetchImages, {
     revalidateOnFocus: false,
   });
@@ -50,6 +48,7 @@ function PromptInput() {
       }),
     });
 
+    console.log(res);
     const data = await res.json();
 
     if (data.error) {
