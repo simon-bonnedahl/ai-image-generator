@@ -1,4 +1,5 @@
 # AI-Image-Generator
+Live at https://image-generator.simonbonnedahl.dev/
 
 ### Tools
 - Next.js 13
